@@ -1,1 +1,1 @@
-openjdk:11
+jdk11:openjdk:11
