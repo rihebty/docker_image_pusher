@@ -1,1 +1,1 @@
-webcenter/activemq
+redis
