@@ -1,3 +1,4 @@
 rabbitmq
 nginx
 mysql:8.4.0
+java:openjdk-8
