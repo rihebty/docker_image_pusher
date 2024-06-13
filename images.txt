@@ -1,2 +1,1 @@
-minio/minio
-nacos/nacos-server
+webcenter/activemq
