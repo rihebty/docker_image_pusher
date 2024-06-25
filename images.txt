@@ -1,1 +1,1 @@
-redis
+openvisualcloud/xeon-ubuntu1804-service-owt
