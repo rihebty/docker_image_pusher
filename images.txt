@@ -1,1 +1,3 @@
-openvisualcloud/xeon-ubuntu1804-service-owt
+openvisualcloud/xeon-centos76-service-owt
+openvisualcloud/xeone3-ubuntu1804-service-owt
+openvisualcloud/xeone3-centos76-service-owt
