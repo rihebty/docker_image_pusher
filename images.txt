@@ -1,1 +1,1 @@
-mysql:8.4.0
+rustdesk/rustdesk-server
