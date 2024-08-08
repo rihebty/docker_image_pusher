@@ -1,2 +1,2 @@
-keking/kkfileview:4.1.0
+onlyoffice/documentserver:8.1.1.1
 
