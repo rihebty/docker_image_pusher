@@ -1,2 +1,2 @@
-ubuntu:18.04
+phpmyadmin:5.2.1
 
