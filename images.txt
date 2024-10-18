@@ -1,1 +1,1 @@
-mobz/elasticsearch-head:5
+yuhanghate/owt-server:v5.1.0
