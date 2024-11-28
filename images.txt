@@ -1,1 +1,3 @@
-yuhanghate/owt-server:v5.1.0
+livekit/generate
+livekit/livekit-server
+redis:7-alpine
